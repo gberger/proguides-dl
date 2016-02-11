@@ -1,0 +1,23 @@
+{
+  "name": "proguides-dl",
+  "version": "1.0.0",
+  "description": "Download videos from ProGuides.com",
+  "keywords": [
+    "download",
+    "proguides",
+    "league",
+    "of",
+    "legends"
+  ],
+  "author": "Guilherme Berger <guilherme.berger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "cheerio": "^0.20.0",
+    "dotenv": "^2.0.0",
+    "moment": "^2.11.2",
+    "pad": "^1.0.0",
+    "request": "^2.69.0",
+    "slugify": "^0.1.1"
+  }
+}
